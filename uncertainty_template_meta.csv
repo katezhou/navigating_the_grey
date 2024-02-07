@@ -1,0 +1,54 @@
+name,booster,shield,evi_markers,factive_verb,authority,ppn
+I don't think it's,none,plausibility,no_evidential_marker,no_factive_verb,no_authority,ppn
+I seriously doubt it's,none,plausibility,no_evidential_marker,no_factive_verb,no_authority,ppn
+It could be,hedge,plausibility,no_evidential_marker,no_factive_verb,no_authority,no_ppn
+Considering all the options it's,hedge,plausibility,no_evidential_marker,no_factive_verb,no_authority,no_ppn
+It probably is,hedge,plausibility,no_evidential_marker,no_factive_verb,no_authority,no_ppn
+Maybe it's,hedge,plausibility,no_evidential_marker,no_factive_verb,no_authority,no_ppn
+Perhaps it's,hedge,plausibility,no_evidential_marker,no_factive_verb,no_authority,no_ppn
+I don't know maybe it's,hedge,plausibility,no_evidential_marker,no_factive_verb,no_authority,ppn
+I suppose it's,hedge,plausibility,no_evidential_marker,no_factive_verb,no_authority,ppn
+I would need to double check but maybe it's,hedge,plausibility,no_evidential_marker,no_factive_verb,no_authority,ppn
+I wouldn't put money on it but maybe it's,hedge,plausibility,no_evidential_marker,no_factive_verb,no_authority,ppn
+I'm not an expert but maybe it's,hedge,plausibility,no_evidential_marker,no_factive_verb,no_authority,ppn
+I think it's,hedge,plausibility,no_evidential_marker,no_factive_verb,no_authority,ppn
+I feel like it should be,hedge,plausibility,no_evidential_marker,no_factive_verb,no_authority,ppn
+It should be,hedge,plausibility,no_evidential_marker,no_factive_verb,no_authority,no_ppn
+To the best of my knowledge it's,hedge,plausibility,evidential_marker,no_factive_verb,no_authority,ppn
+As far as I'm aware it's,hedge,plausibility,evidential_marker,no_factive_verb,no_authority,ppn
+I vaguely remember it's,hedge,plausibility,evidential_marker,no_factive_verb,no_authority,ppn
+It's,none,None,no_evidential_marker,no_factive_verb,no_authority,no_ppn
+unprompted,none,None,no_evidential_marker,no_factive_verb,no_authority,no_ppn
+It must be,booster,None,no_evidential_marker,factive_verb,no_authority,no_ppn
+I'm certain it's,booster,None,no_evidential_marker,no_factive_verb,no_authority,ppn
+Undoubtedly it's,booster,None,no_evidential_marker,no_factive_verb,no_authority,no_ppn
+We realize it's,booster,None,no_evidential_marker,factive_verb,no_authority,ppn
+We understand it's,booster,None,no_evidential_marker,factive_verb,no_authority,ppn
+We know it's,booster,None,no_evidential_marker,factive_verb,no_authority,ppn
+I am 100% sure it's,booster,None,no_evidential_marker,no_factive_verb,no_authority,ppn
+With 100% confidence it's,booster,None,no_evidential_marker,no_factive_verb,no_authority,no_ppn
+Wikipedia suggests it's,hedge,None,evidential_marker,no_factive_verb,authority,no_ppn
+Online says it's,hedge,None,evidential_marker,no_factive_verb,authority,no_ppn
+The internet says it's,hedge,None,evidential_marker,no_factive_verb,authority,no_ppn
+Wikipedia claims it's,hedge,None,evidential_marker,no_factive_verb,authority,no_ppn
+Wikipedia says it's,hedge,None,evidential_marker,no_factive_verb,authority,no_ppn
+I read on the internet it's,hedge,None,evidential_marker,no_factive_verb,authority,ppn
+I read on Wikipedia it's,hedge,None,evidential_marker,no_factive_verb,authority,ppn
+I read online it's,hedge,None,evidential_marker,no_factive_verb,authority,ppn
+Apparently it's,hedge,None,evidential_marker,no_factive_verb,no_authority,no_ppn
+Presumably it's,hedge,None,no_evidential_marker,no_factive_verb,no_authority,no_ppn
+Rumor says it it's,hedge,None,evidential_marker,no_factive_verb,no_authority,no_ppn
+I was told it's,hedge,None,evidential_marker,no_factive_verb,no_authority,ppn
+I've heard it's,hedge,None,evidential_marker,no_factive_verb,no_authority,ppn
+They told me it's,hedge,None,evidential_marker,no_factive_verb,no_authority,ppn
+Allegedly it's,hedge,None,evidential_marker,no_factive_verb,no_authority,no_ppn
+The most recent evidence shows it's,booster,None,evidential_marker,factive_verb,authority,no_ppn
+The rules state it's,booster,None,evidential_marker,factive_verb,authority,no_ppn
+Two recent studies demonstrate it's,booster,None,evidential_marker,factive_verb,authority,no_ppn
+Wikipedia acknowledges it's,booster,None,evidential_marker,factive_verb,authority,no_ppn
+Wikipedia confirms it's,booster,None,evidential_marker,factive_verb,authority,no_ppn
+Our lab has shown it's,booster,None,evidential_marker,factive_verb,authority,ppn
+According to the latest research it's,booster,None,evidential_marker,no_factive_verb,authority,no_ppn
+We can see in the textbook that it's,booster,None,evidential_marker,no_factive_verb,authority,ppn
+It is known that it's,booster,None,evidential_marker,factive_verb,no_authority,no_ppn
+Evidently it's,booster,None,evidential_marker,no_factive_verb,no_authority,no_ppn
